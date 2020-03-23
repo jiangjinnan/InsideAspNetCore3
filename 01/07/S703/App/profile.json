@@ -1,0 +1,8 @@
+{
+  "gender": "Male",
+  "age": "18",
+  "contactInfo": {
+    "emailAddress": "foobar@outlook.com",
+    "phoneNo": "123456789"
+  }
+}

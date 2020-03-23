@@ -1,0 +1,9 @@
+{
+  "Greeting": {
+    "Value": "[Foo]Hello World!",
+    "Translations": {
+      "zh": "[Foo]你好，世界",
+      "fr": "[Foo]Bonjour le monde"
+    }
+  }
+}

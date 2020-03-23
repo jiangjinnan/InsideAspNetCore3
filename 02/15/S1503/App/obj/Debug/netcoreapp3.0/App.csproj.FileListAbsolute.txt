@@ -1,0 +1,15 @@
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\bin\Debug\netcoreapp3.0\App.exe
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\bin\Debug\netcoreapp3.0\App.deps.json
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.json
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.dev.json
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\bin\Debug\netcoreapp3.0\App.dll
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\bin\Debug\netcoreapp3.0\App.pdb
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\obj\Debug\netcoreapp3.0\staticwebassets\App.StaticWebAssets.Manifest.cache
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\obj\Debug\netcoreapp3.0\staticwebassets\App.StaticWebAssets.xml
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\obj\Debug\netcoreapp3.0\App.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\obj\Debug\netcoreapp3.0\App.AssemblyInfoInputs.cache
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\obj\Debug\netcoreapp3.0\App.AssemblyInfo.cs
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\obj\Debug\netcoreapp3.0\App.RazorTargetAssemblyInfo.cache
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\obj\Debug\netcoreapp3.0\App.dll
+D:\ASP.NET Core 3框架揭秘\samples\下\15\S1503\App\obj\Debug\netcoreapp3.0\App.pdb

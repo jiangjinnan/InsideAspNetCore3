@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpFileSystem", "HttpFileSystem\HttpFileSystem.csproj", "{5D9A55A9-DC92-43D9-B8FA-36722FD5CA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{24956AE8-0B34-4ACF-9DF9-1A0C683E7B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{8C2B623D-82ED-41CE-9726-E0FBFE9CAE00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9A55A9-DC92-43D9-B8FA-36722FD5CA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9A55A9-DC92-43D9-B8FA-36722FD5CA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9A55A9-DC92-43D9-B8FA-36722FD5CA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9A55A9-DC92-43D9-B8FA-36722FD5CA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24956AE8-0B34-4ACF-9DF9-1A0C683E7B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24956AE8-0B34-4ACF-9DF9-1A0C683E7B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24956AE8-0B34-4ACF-9DF9-1A0C683E7B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24956AE8-0B34-4ACF-9DF9-1A0C683E7B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2B623D-82ED-41CE-9726-E0FBFE9CAE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2B623D-82ED-41CE-9726-E0FBFE9CAE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2B623D-82ED-41CE-9726-E0FBFE9CAE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2B623D-82ED-41CE-9726-E0FBFE9CAE00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8925B4A-0A64-4F49-9E5E-836A68A73264}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+<Profiles>
+    <Profile Gender="Male" Age="18">
+        <ContactInfo EmailAddress ="foo@outlook.com" PhoneNo="123"/>
+    </Profile>
+    <Profile Gender="Male" Age="25">
+        <ContactInfo EmailAddress ="bar@outlook.com" PhoneNo="456"/>
+    </Profile>
+    <Profile Gender="Female" Age="36">
+        <ContactInfo EmailAddress ="baz@outlook.com" PhoneNo="789"/>
+    </Profile>
+</Profiles>
