@@ -18,27 +18,11 @@ namespace App
             .Run();
         }
 
-        private sealed class StringContentMiddleware
+        private sealed class StringContentMiddleware : IMiddleware
         {
-            private readonly RequestDelegate _next;
             private readonly string _contents;
-            private readonly bool _forewardToNext;
-
-            public StringContentMiddleware(RequestDelegate next, string contents, bool forewardToNext = true)
-            {
-                _next = next;
-                _forewardToNext = forewardToNext;
-                _contents = contents;
-            }
-
-            public async Task Invoke(HttpContext context)
-            {
-                await context.Response.WriteAsync(_contents);
-                if (_forewardToNext)
-                {
-                    await _next(context);
-                }
-            }
+            public StringContentMiddleware(string contents) => _contents = contents;
+            public Task InvokeAsync(HttpContext context, RequestDelegate next) => context.Response.WriteAsync(_contents);
         }
     }
 }
